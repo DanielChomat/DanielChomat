@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a **Front End developer** mainly specializing in **React**, now transitioning into **📱 Mobile Development in React Native** (including Native code development).
+
+My hobbies include traveling (whether #vanlife or 🛩️) or enjoying any board sport (🏄‍♂️, 🛹, 🏂).
+
+### <p align="center">#OpenToWork</p>
